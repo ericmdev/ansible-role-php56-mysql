@@ -13,4 +13,4 @@ None
 ## Dependencies
 
 - [repo-webtatic](https://github.com/ericmdev/ansible-role-repo-webtatic)
-- [php56](https://github.com/ericmdev/ansible-role-php56)]
+- [php56](https://github.com/ericmdev/ansible-role-php56)
