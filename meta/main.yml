@@ -1,0 +1,19 @@
+---
+dependencies:
+  - { role: repo-webtatic }
+  - { role: php56 }
+
+galaxy_info:
+  author: ericmdev
+  description: PHP MySQL support for RedHat/CentOS.
+  company: ""
+  license: "license (MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: EL
+    versions:
+    - 6
+    - 7
+  categories:
+    - database
+    - web
